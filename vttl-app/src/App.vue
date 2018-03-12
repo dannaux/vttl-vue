@@ -23,6 +23,11 @@ export default {
         loss: 3,
         max: 40
       }, {
+        name: 'E2',
+        won: 6,
+        loss: 8,
+        max: 40
+      }, {
         name: 'E6',
         won: 16,
         loss: 7,
