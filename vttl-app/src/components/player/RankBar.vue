@@ -24,7 +24,7 @@ export default {
     },
     rankstyle () {
       return {
-        width: '5%',
+        width: '3%',
         textAlign: 'center'
       }
     }
